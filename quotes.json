@@ -48,5 +48,10 @@
       "name" : "Paulo Coelho",
       "quote" : "When you want something, all the universe conspires in helping you achieve it",
       "contributor": "Ubaida"
-  }
+  },
+   {
+      "name" : "Oscar Wilde",
+      "quote" : "Be yourself; everyone else is already taken",
+      "contributor": "Khadeja"
+   },
 ]
